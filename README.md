@@ -35,6 +35,9 @@ THEN I am able to successfully create, update, and delete data in my database
     -Clone the repo
     -Install node.js: https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs
     -Then in the integrated terminal for the cloned repo terminal:
+      -npm install
+      -use schema.sql as source
+      -npm run seed
       -npm start
 
 
