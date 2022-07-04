@@ -53,7 +53,7 @@ THEN I am able to successfully create, update, and delete data in my database
    https://github.com/jleitz27/e-commerce-back-end  
 
   ## Link to video of working app
- https://www.screencast.com/t/5gnnbeWhk 
+ https://www.screencast.com/t/U4CpuDfN  
 
 <p align="center">
   <img src="./lib/images/screenshot.png" width="350"
